@@ -1,2 +1,7 @@
 # Treinamento31-01-2022
- estudos
+
+ Estudos
+
+- Introduction
+- HTML
+- CSS
