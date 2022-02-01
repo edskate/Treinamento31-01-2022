@@ -5,3 +5,10 @@
 - Introduction
 - HTML
 - CSS
+- new update
+- new phrases
+- new codes
+- easy words
+- practice every day
+- your focus and your answer
+- code
